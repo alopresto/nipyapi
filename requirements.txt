@@ -11,7 +11,7 @@ packaging>=17.1
 lxml>=4.1.1
 
 # Security and Connectivity
-requests[security]>=2.18
+requests>=2.32.0
 # urllib3 is handled by requests
 
 # Import Export and Utils implementation
